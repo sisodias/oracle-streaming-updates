@@ -1,0 +1,8 @@
+version: 0.1.0
+files:
+  - url: oracle-streaming-0.1.0-mac-arm64.zip
+    sha512: gho5TrQTzbLdFzszM5U/+bCyQm2Y1WLLOS5AoTijy2YAPoE2EAUZs/XmC0MSbCtm7/2d/K2JRbDFb2qGp+tubQ==
+    size: 288
+path: oracle-streaming-0.1.0-mac-arm64.zip
+sha512: gho5TrQTzbLdFzszM5U/+bCyQm2Y1WLLOS5AoTijy2YAPoE2EAUZs/XmC0MSbCtm7/2d/K2JRbDFb2qGp+tubQ==
+releaseDate: '2026-05-31T00:00:00.000Z'

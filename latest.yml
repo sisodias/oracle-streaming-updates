@@ -1,0 +1,8 @@
+version: 0.1.0
+files:
+  - url: oracle-streaming-0.1.0-win-x64.exe
+    sha512: PSbiIR+kLSIq+7nwKvwRCHQo3yb55oi6rrDZW5aa4XfW0moeeRal5WKXPRmerrJoRhfIQq0NvKdLN2d/yXvpHw==
+    size: 146
+path: oracle-streaming-0.1.0-win-x64.exe
+sha512: PSbiIR+kLSIq+7nwKvwRCHQo3yb55oi6rrDZW5aa4XfW0moeeRal5WKXPRmerrJoRhfIQq0NvKdLN2d/yXvpHw==
+releaseDate: '2026-05-31T00:00:00.000Z'
