@@ -1,11 +1,11 @@
 version: 0.1.0
 files:
-  - url: https://github.com/sisodias/oracle-streaming-updates/releases/download/oracle-streaming-v0.1.0-feed.5/oracle-streaming-0.1.0-mac-arm64.zip
-    sha512: EWHm/MNQFxe5dfhudmnbywmvcOc4/6+Z/+2Asqcoux/vs3TDe4ovDiIvzgnX+TwoqZETpUtLqiEB/zKHIuawkw==
-    size: 338438686
-  - url: https://github.com/sisodias/oracle-streaming-updates/releases/download/oracle-streaming-v0.1.0-feed.5/oracle-streaming-0.1.0-mac-arm64.dmg
-    sha512: bmsLFG5XPSlPA9GfiOUY4EZnXGAjoZDz/Cf2XHAiZHgZddTwj4ukzm7a/DomfVEW51DDPCb6/YP6mghONF60Nw==
-    size: 349865821
-path: https://github.com/sisodias/oracle-streaming-updates/releases/download/oracle-streaming-v0.1.0-feed.5/oracle-streaming-0.1.0-mac-arm64.zip
-sha512: EWHm/MNQFxe5dfhudmnbywmvcOc4/6+Z/+2Asqcoux/vs3TDe4ovDiIvzgnX+TwoqZETpUtLqiEB/zKHIuawkw==
-releaseDate: '2026-07-12T23:37:43.717Z'
+  - url: https://github.com/sisodias/oracle-streaming-updates/releases/download/oracle-streaming-v0.1.0-feed.6/oracle-streaming-0.1.0-mac-arm64.zip
+    sha512: TBjbKOtUHEqtdQvDHFpdtjEIEuGCXE6xis81cwcxnOk1nbe7S0Vl9IBRgjQmevDP5BSBOdc2R+MlNMBJEuiiKQ==
+    size: 337214783
+  - url: https://github.com/sisodias/oracle-streaming-updates/releases/download/oracle-streaming-v0.1.0-feed.6/oracle-streaming-0.1.0-mac-arm64.dmg
+    sha512: LDUVpkvkdZwLkFlYA9AIwlMjKqVPkDQvUaA5IIebkAFNn5S+owRD5u/EhJzFnjQaZcVzMH/2EAH35gcruQrg3A==
+    size: 348519660
+path: https://github.com/sisodias/oracle-streaming-updates/releases/download/oracle-streaming-v0.1.0-feed.6/oracle-streaming-0.1.0-mac-arm64.zip
+sha512: TBjbKOtUHEqtdQvDHFpdtjEIEuGCXE6xis81cwcxnOk1nbe7S0Vl9IBRgjQmevDP5BSBOdc2R+MlNMBJEuiiKQ==
+releaseDate: '2026-07-13T07:06:41.975Z'
